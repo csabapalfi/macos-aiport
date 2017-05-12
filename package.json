@@ -1,0 +1,9 @@
+{
+  "name": "macos-airport",
+  "version": "1.0.0",
+  "description": "Put the macOS airport utility on your PATH",
+  "bin": {
+    "airport": "/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport"
+  },
+  "license": "MIT"
+}
